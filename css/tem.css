@@ -328,8 +328,8 @@ padding-top: 50px;
  max-width: 100%;
 }
 .about .logo{
-  height: 158px;
-  width: 123px;
+    height: 134px;
+    width: 100px;
   border:  solid 20px rgb(64, 55, 116);
   border-radius: 20px;
   transition: 0.3s;
